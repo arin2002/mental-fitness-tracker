@@ -1,7 +1,5 @@
 # Fitness Tracker with ML Model Analysis
 
-![Fitness Tracker Logo]
-
 ## Overview
 
 The Fitness Tracker with ML Model Analysis is a web application designed to assist fitness enthusiasts in selecting the most suitable machine learning model for specific fitness-related tasks. This project offers an interactive platform to input fitness data and compare the performance of different ML models to identify the optimal one for each task.
